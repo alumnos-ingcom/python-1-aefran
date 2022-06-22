@@ -1,5 +1,5 @@
 ################
-# Nombre - @aefran
+# Franco Roma - @aefran
 # UNRN Andina - Introducción a la Ingenieria en Computación
 ################
 
